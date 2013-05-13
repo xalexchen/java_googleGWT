@@ -1,0 +1,2 @@
+serviceClass: com.example.hellogwt.client.GreetingService
+path: 97C4C6942DAE49243A583508DF94768F.gwt.rpc
